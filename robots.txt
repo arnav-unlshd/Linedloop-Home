@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Demo test website: intentionally not indexable until real brand is verified.
